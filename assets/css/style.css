@@ -534,6 +534,7 @@ main { overflow-x: hidden; }
 .stats-card .card-title {
   width: calc(100% - 95px);
   color: var(--raw-seinna);
+  max-lines: 2;
   text-align: center;
 }
 
